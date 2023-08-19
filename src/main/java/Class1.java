@@ -15,7 +15,8 @@ public class Class1 {
         System.out.println("versiyon3");
 
 
-
+// versiyon 6
+        System.out.println("versiyon6");
 
 
 
