@@ -7,6 +7,12 @@ public class Class1 {
 
 
 
+        //sou
+        System.out.println("versiyon2");
+
+
+
+
 
 
 
